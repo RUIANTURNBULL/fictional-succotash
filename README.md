@@ -1,4 +1,4 @@
-# Racket hw02
+# Racket hw
 1. Create test cases
 2. Stub: signature, purpose statement, header, stub
 3. Complete the body
